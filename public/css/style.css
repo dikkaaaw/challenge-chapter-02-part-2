@@ -48,7 +48,63 @@ main {
   margin: 5px 0;
 }
 
-.bagiancarousel .item {
+#testimoniTitle,
+#testimoniDesc {
+  font-family: Helvetica, sans-serif;
+}
+
+#testimoniTitle {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+#testimoniDesc {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+#testimoniContent {
+  text-align: left;
+  margin-top: 70px;
+  margin-right: 110px;
+}
+
+.testimonial-text,
+.testimonial-person {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.testimonial-person {
+  font-weight: 500;
+}
+
+.profile-img {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+}
+
+#carouselTestimonialAutoplaying {
+  width: 832px;
+  height: 270px;
+  background-color: blue;
+  border-radius: 8px;
+  margin-left: 144px;
+}
+
+.row-carousel-content {
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.star-logo {
+  width: 16px;
+  height: 16px;
+  color: #F9CC00
+}
+
+/* .bagiancarousel .item {
   max-width: 619px;
 }
 
@@ -65,7 +121,7 @@ main {
 
 .bagiancarousel .item .card .card-body {
   text-align: left;
-}
+} */
 
 .sewa {
   margin-top: 100px;
