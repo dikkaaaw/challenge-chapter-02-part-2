@@ -48,6 +48,7 @@ main {
   margin: 5px 0;
 }
 
+/* Testimony Section */
 #testimoniTitle,
 #testimoniDesc {
   font-family: Helvetica, sans-serif;
@@ -88,7 +89,7 @@ main {
 #carouselTestimonialAutoplaying {
   width: 832px;
   height: 270px;
-  background-color: blue;
+  background-color: #F1F3FF;
   border-radius: 8px;
   margin-left: 144px;
 }
@@ -98,31 +99,7 @@ main {
   margin-left: 70px;
 }
 
-.star-logo {
-  width: 16px;
-  height: 16px;
-  color: #F9CC00
-}
-
-/* .bagiancarousel .item {
-  max-width: 619px;
-}
-
-.bagiancarousel .item .card {
-  background-color: #F1F3FF;
-}
-
-.bagiancarousel .item .card .gambarorang {
-  width: 120px !important;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.bagiancarousel .item .card .card-body {
-  text-align: left;
-} */
-
+/* CTA Banner Section */
 .sewa {
   margin-top: 100px;
 }
