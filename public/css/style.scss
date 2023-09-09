@@ -13,6 +13,7 @@ main {
         color: #ffff;
         border-radius: 0;
         &:hover {
+            border: 1px solid #5CB85F;
             background-color: white;
             color: #232323;
         }

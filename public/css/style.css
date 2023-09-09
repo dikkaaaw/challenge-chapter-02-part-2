@@ -15,6 +15,7 @@ main {
 
 .navbar .btn-register:hover {
   background-color: white;
+  border: 1px solid #5CB85F;
   color: #232323;
 }
 
@@ -39,6 +40,7 @@ main {
 }
 
 .why .card-why {
+  font-size: 14px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   border-radius: 6px;
